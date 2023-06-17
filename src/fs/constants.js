@@ -1,6 +1,6 @@
 export const MESSAGES = {
   FS_ERROR: 'FS operation failed',
-  SUCCESS: 'File created',
+  SUCCESS: 'Success',
 };
 
 export const PATH_TO_FILES = './src/fs/files';
