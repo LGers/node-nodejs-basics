@@ -3,6 +3,7 @@ import path from 'path';
 import { release, version } from 'os';
 import { createServer as createServerHttp } from 'http';
 import { fileURLToPath } from 'url';
+import './files/c.js';
 
 const uniCode = 'utf8';
 const __filename = fileURLToPath(import.meta.url);
